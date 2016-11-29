@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25e3928f-c658-4a2b-818b-dc4356fc6549" name="Default" comment="" />
+    <ignored path="entityFramework.Web.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="entityFramework.Web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MyDbContext.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/Databases/MyDbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <marker date="1480457198110" expanded="true" signature="6:109" ph="..." />
+                <marker date="1480457198110" expanded="true" signature="151:576" ph="{...}" />
+                <marker date="1480457198110" expanded="true" signature="194:574" ph="{...}" />
+                <marker date="1480457198110" expanded="true" signature="336:568" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1480454664436" expanded="true" signature="6:94" ph="..." />
+                <marker date="1480454664436" expanded="true" signature="125:721" ph="{...}" />
+                <marker date="1480454664436" expanded="true" signature="152:719" ph="{...}" />
+                <marker date="1480454664436" expanded="true" signature="205:713" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+              <folding>
+                <marker date="1480457198118" expanded="true" signature="6:273" ph="..." />
+                <marker date="1480457198118" expanded="true" signature="303:1567" ph="{...}" />
+                <marker date="1480457198118" expanded="true" signature="330:1565" ph="{...}" />
+                <marker date="1480457198118" expanded="true" signature="450:563" ph="{...}" />
+                <marker date="1480457198118" expanded="true" signature="573:788" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1480457198118" expanded="true" signature="855:1055" ph="{...}" />
+                <marker date="1480457198118" expanded="true" signature="1273:1559" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceScopeExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Extensions/ServiceScopeExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+              <folding>
+                <marker date="1480451350443" expanded="true" signature="6:135" ph="..." />
+                <marker date="1480451350443" expanded="true" signature="177:913" ph="{...}" />
+                <marker date="1480451350443" expanded="true" signature="226:911" ph="{...}" />
+                <marker date="1480451350443" expanded="true" signature="325:567" ph="{...}" />
+                <marker date="1480451350443" expanded="true" signature="336:557" ph="/* if (serviceScope == null) throw new ArgumentNullException(nameof(serviceScope)); ... */" />
+                <marker date="1480451350443" expanded="true" signature="661:905" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDbContextExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/Databases/MyDbContextExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1480452607895" expanded="true" signature="6:89" ph="..." />
+                <marker date="1480452607895" expanded="true" signature="130:788" ph="{...}" />
+                <marker date="1480452607895" expanded="true" signature="178:786" ph="{...}" />
+                <marker date="1480452607895" expanded="true" signature="262:780" ph="{...}" />
+                <marker date="1480452607895" expanded="true" signature="372:689" ph="{...}" />
+                <marker date="1480452607895" expanded="true" signature="418:522" ph="{...}" />
+                <marker date="1480452607895" expanded="true" signature="568:675" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entityFramework.Data.xproj" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/entityFramework.Data.xproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../../test/entityFramework.Test/Class1.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Data/MyDbContext.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Data/Databases/NinjaContextExtensions.cs" />
+        <option value="$PROJECT_DIR$/../../Controllers/TempController.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Domain/Domain.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Domain/DomainFun.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Data/Entities/Ninja.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Data/Databases/MyDbContextExtensions.cs" />
+        <option value="$PROJECT_DIR$/../../Extensions/ServiceCollectionsExtensions.cs" />
+        <option value="$PROJECT_DIR$/../../Extensions/ServiceScopeExtensions.cs" />
+        <option value="$PROJECT_DIR$/../../appsettings.Development.default.json" />
+        <option value="$PROJECT_DIR$/../../appsettings.Production.json" />
+        <option value="$PROJECT_DIR$/../../appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Data/entityFramework.Data.xproj" />
+        <option value="$PROJECT_DIR$/../../Program.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Domain/domainFun.cs" />
+        <option value="$PROJECT_DIR$/../../project.json" />
+        <option value="$PROJECT_DIR$/../../../../test/entityFramework.Test/project.json" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Data/project.json" />
+        <option value="$PROJECT_DIR$/../../../../test/entityFramework.Test/Test.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Data/Program.cs" />
+        <option value="$PROJECT_DIR$/../../Startup.cs" />
+        <option value="$PROJECT_DIR$/../../../entityFramework.Data/Databases/MyDbContext.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Web (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Web" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Web (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Web" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Extensions" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Web (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Web (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Data" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Web (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entityFramework.Data" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Databases" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../test/entityFramework.Test/project.json" />
+  </component>
+  <component name="RunManager" selected=".NET Project.Development">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../entityFramework.Web.xproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v1.1" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../bin/Debug/netcoreapp1.1/entityFramework.Web.dll" />
+      <option name="PROGRAM_PARAMETERS" value="--environment Production" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/../../entityFramework.Web.xproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v1.1" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../bin/Debug/netcoreapp1.1/entityFramework.Web.dll" />
+      <option name="PROGRAM_PARAMETERS" value="--environment Development" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../.." />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Production" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.Development" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25e3928f-c658-4a2b-818b-dc4356fc6549" name="Default" comment="" />
+      <created>1480449891749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480449891749</updated>
+      <workItem from="1480449894811" duration="8988000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8988000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Domain/DomainFun.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Extensions/ServiceCollectionsExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="98" selection-start-line="22" selection-start-column="98" selection-end-line="22" selection-end-column="98" />
+          <folding>
+            <marker date="1480451319114" expanded="true" signature="6:61" ph="..." />
+            <marker date="1480451319114" expanded="true" signature="103:1971" ph="{...}" />
+            <marker date="1480451319114" expanded="true" signature="157:1969" ph="{...}" />
+            <marker date="1480451319114" expanded="true" signature="250:795" ph="{...}" />
+            <marker date="1480451319114" expanded="true" signature="261:755" ph="/* services.AddIdentity&lt;ApplicationUser, IdentityRole&gt;(opts =&gt; ... */" />
+            <marker date="1480451319114" expanded="true" signature="896:1963" ph="{...}" />
+            <marker date="1480451319114" expanded="true" signature="907:1924" ph="/* services.Configure&lt;IdentityOptions&gt;(options =&gt; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480451674884" expanded="true" signature="0:161" ph="{...}" />
+            <marker date="1480451674884" expanded="true" signature="27:159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../appsettings.Production.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480451674880" expanded="true" signature="0:161" ph="{...}" />
+            <marker date="1480451674880" expanded="true" signature="27:159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Extensions/ConfigurationBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480451319098" expanded="true" signature="6:77" ph="..." />
+            <marker date="1480451319098" expanded="true" signature="119:535" ph="{...}" />
+            <marker date="1480451319098" expanded="true" signature="176:533" ph="{...}" />
+            <marker date="1480451319098" expanded="true" signature="321:527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Controllers/TempController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480450621826" expanded="true" signature="74:262" ph="{...}" />
+            <marker date="1480450621826" expanded="true" signature="145:260" ph="{...}" />
+            <marker date="1480450621826" expanded="true" signature="204:254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/Entities/Ninja.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <marker date="1480454665636" expanded="true" signature="39:288" ph="{...}" />
+            <marker date="1480454665636" expanded="true" signature="67:119" ph="{...}" />
+            <marker date="1480454665636" expanded="true" signature="143:286" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+          <folding>
+            <marker date="1480455304756" expanded="true" signature="30:558" ph="{...}" />
+            <marker date="1480455304756" expanded="true" signature="64:556" ph="{...}" />
+            <marker date="1480455304756" expanded="true" signature="79:483" ph="/* - Taken from http://benjii.me/2016/06/entity-framework-core-migrations-for-class-library-projects ... */" />
+            <marker date="1480455304756" expanded="true" signature="530:550" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1480455665993" expanded="true" signature="0:847" ph="{...}" />
+            <marker date="1480455665993" expanded="true" signature="22:60" ph="{...}" />
+            <marker date="1480455665993" expanded="true" signature="80:125" ph="{...}" />
+            <marker date="1480455665993" expanded="true" signature="107:119" ph="{...}" />
+            <marker date="1480455665993" expanded="true" signature="147:511" ph="{...}" />
+            <marker date="1480455665993" expanded="true" signature="182:256" ph="{...}" />
+            <marker date="1480455665993" expanded="true" signature="462:505" ph="{...}" />
+            <marker date="1480455665993" expanded="true" signature="526:765" ph="{...}" />
+            <marker date="1480455665993" expanded="true" signature="783:845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Domain/DomainFun.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1480455571094" expanded="true" signature="32:76" ph="{...}" />
+            <marker date="1480455571094" expanded="true" signature="61:74" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Domain/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480449441781" expanded="true" signature="0:244" ph="{...}" />
+            <marker date="1480449441781" expanded="true" signature="45:85" ph="{...}" />
+            <marker date="1480449441781" expanded="true" signature="104:168" ph="{...}" />
+            <marker date="1480449441781" expanded="true" signature="128:164" ph="{...}" />
+            <marker date="1480449441781" expanded="true" signature="184:242" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../test/entityFramework.Test/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1480455603291" expanded="true" signature="43:274" ph="{...}" />
+            <marker date="1480455603291" expanded="true" signature="50:167" ph="/* see example explanation on xUnit.net website: ... */" />
+            <marker date="1480455603291" expanded="true" signature="191:272" ph="{...}" />
+            <marker date="1480455603291" expanded="true" signature="246:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../test/entityFramework.Test/project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <marker date="1480455636568" expanded="true" signature="0:1018" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="75:657" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="358:433" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="467:542" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="575:650" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="677:906" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="704:900" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="734:890" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="777:875" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="928:1016" ph="{...}" />
+            <marker date="1480455636568" expanded="true" signature="954:1010" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../project.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1480455636560" expanded="true" signature="0:1696" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="22:840" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="57:131" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="714:757" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="791:834" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="856:946" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="967:1117" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="994:1111" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="1019:1101" ph="[...]" />
+            <marker date="1480455636560" expanded="true" signature="1140:1222" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="1247:1331" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="1277:1325" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="1356:1442" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="1377:1436" ph="[...]" />
+            <marker date="1480455636560" expanded="true" signature="1460:1615" ph="{...}" />
+            <marker date="1480455636560" expanded="true" signature="1485:1609" ph="[...]" />
+            <marker date="1480455636560" expanded="true" signature="1633:1694" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480454664436" expanded="true" signature="6:94" ph="..." />
+            <marker date="1480454664436" expanded="true" signature="125:721" ph="{...}" />
+            <marker date="1480454664436" expanded="true" signature="152:719" ph="{...}" />
+            <marker date="1480454664436" expanded="true" signature="205:713" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Extensions/ServiceScopeExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <marker date="1480451350443" expanded="true" signature="6:135" ph="..." />
+            <marker date="1480451350443" expanded="true" signature="177:913" ph="{...}" />
+            <marker date="1480451350443" expanded="true" signature="226:911" ph="{...}" />
+            <marker date="1480451350443" expanded="true" signature="325:567" ph="{...}" />
+            <marker date="1480451350443" expanded="true" signature="336:557" ph="/* if (serviceScope == null) throw new ArgumentNullException(nameof(serviceScope)); ... */" />
+            <marker date="1480451350443" expanded="true" signature="661:905" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/entityFramework.Data.xproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <marker date="1480457198118" expanded="true" signature="6:273" ph="..." />
+            <marker date="1480457198118" expanded="true" signature="303:1567" ph="{...}" />
+            <marker date="1480457198118" expanded="true" signature="330:1565" ph="{...}" />
+            <marker date="1480457198118" expanded="true" signature="450:563" ph="{...}" />
+            <marker date="1480457198118" expanded="true" signature="573:788" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1480457198118" expanded="true" signature="855:1055" ph="{...}" />
+            <marker date="1480457198118" expanded="true" signature="1273:1559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/Databases/MyDbContextExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1480452607895" expanded="true" signature="6:89" ph="..." />
+            <marker date="1480452607895" expanded="true" signature="130:788" ph="{...}" />
+            <marker date="1480452607895" expanded="true" signature="178:786" ph="{...}" />
+            <marker date="1480452607895" expanded="true" signature="262:780" ph="{...}" />
+            <marker date="1480452607895" expanded="true" signature="372:689" ph="{...}" />
+            <marker date="1480452607895" expanded="true" signature="418:522" ph="{...}" />
+            <marker date="1480452607895" expanded="true" signature="568:675" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../entityFramework.Data/Databases/MyDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <marker date="1480457198110" expanded="true" signature="6:109" ph="..." />
+            <marker date="1480457198110" expanded="true" signature="151:576" ph="{...}" />
+            <marker date="1480457198110" expanded="true" signature="194:574" ph="{...}" />
+            <marker date="1480457198110" expanded="true" signature="336:568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

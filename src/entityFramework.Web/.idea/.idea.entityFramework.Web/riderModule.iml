@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../entityFramework.Data">
+      <sourceFolder url="file://$MODULE_DIR$/../../../entityFramework.Data" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../entityFramework.Data/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../entityFramework.Data/obj" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../entityFramework.Domain">
+      <sourceFolder url="file://$MODULE_DIR$/../../../entityFramework.Domain" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../entityFramework.Domain/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../entityFramework.Domain/obj" />
+    </content>
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../.." isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../test/entityFramework.Test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../test/entityFramework.Test" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../test/entityFramework.Test/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../test/entityFramework.Test/obj" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
