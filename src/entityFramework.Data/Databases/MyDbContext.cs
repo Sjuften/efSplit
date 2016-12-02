@@ -8,11 +8,23 @@ namespace entityFramework.Data.Databases
     {
         public DbSet<Ninja> Ninjas { get; set; }
 
+        public MyDbContext()
+        {
+        }
+
+        public MyDbContext(DbContextOptions<MyDbContext> options)
+            : base(options)
+        {
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            const string connectionString =
-                "server=localhost;userid=pluralsight;pwd=test;port=3306;database=entityframework;sslmode=none;";
-            optionsBuilder.UseMySQL(connectionString);
+            if (!optionsBuilder.IsConfigured)
+            {
+                const string connectionString =
+                    "server=localhost;userid=pluralsight;pwd=test;port=3306;database=entityframework;sslmode=none;";
+                optionsBuilder.UseMySQL(connectionString);
+            }
         }
     }
 }

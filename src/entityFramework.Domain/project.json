@@ -1,17 +1,27 @@
 {
-  "version": "1.0.0-*",
+    "version": "1.1.0-*",
+    "buildOptions": {
+        "emitEntryPoint": true
+    },
+    "frameworks": {
+        "netcoreapp1.1": {
 
-  "dependencies": {
-    "NETStandard.Library": "1.6.0"
-  },
+        }
+    },
+    "dependencies": {
+        "Microsoft.NETCore.App": {
+            "version": "1.1.0",
+            "type": "platform"
+        },
+        "entityFramework.Data": {
+            "target": "project"
+        }
+    },
+    "tools": {
 
-  "frameworks": {
-    "netstandard1.6": {
-      "imports": "dnxcore50"
+    },
+
+    "tooling": {
+        "defaultNamespace": "entityFramework.App.Data"
     }
-  },
-
-  "tooling": {
-    "defaultNamespace": "entityFramework.App.Domain"
-  }
 }
